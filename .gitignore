@@ -1,0 +1,10 @@
+forge
+origin
+
+models/*
+*.safetensors
+models/**/*.json
+
+!models/Stable-diffusion
+!models/VAE
+!models/text_encoder
